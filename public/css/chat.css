@@ -1,0 +1,23 @@
+
+.chat {
+
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    font-family: "Nunito", sans-serif;
+    font-size: 1rem;
+    color: #161c2d;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: initial;
+    border: 0 !important;
+    margin-top: 1.5rem !important;
+    background-color: #fff;
+    box-shadow: 0 0 3px rgba(60, 72, 88, .15) !important;
+    border-radius: 6px !important;
+
+  
+}
